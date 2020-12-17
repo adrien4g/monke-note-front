@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200"
+   height="90"
+   version="1.1"
+   viewBox="0 0 52.917 23.813"
+   id="svg48"
+   sodipodi:docname="logook.svg"
+   inkscape:export-filename="/home/adrien/Documents/projects/monkeNote/web/src/images/logos/logook.png"
+   inkscape:export-xdpi="1000"
+   inkscape:export-ydpi="1000"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <defs
+     id="defs52" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1350"
+     inkscape:window-height="752"
+     id="namedview50"
+     showgrid="false"
+     inkscape:zoom="2.8775"
+     inkscape:cx="52.605288"
+     inkscape:cy="75.196911"
+     inkscape:window-x="1608"
+     inkscape:window-y="8"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg48" />
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="matrix(1.2069 0 0 1.2069 -7.6391 -28.474)"
+     stroke-width=".82858"
+     id="g46">
+    <g
+       transform="translate(-69.096 -178.78)"
+       font-family="'Giga Sans'"
+       href="./giga.otf"
+       id="g20">
+      <text
+         x="87.398308"
+         y="209.31659"
+         font-size="8.9883px"
+         stroke-width=".18619"
+         style="line-height:1.25"
+         xml:space="preserve"
+         id="text14"><tspan
+           x="87.398308"
+           y="209.31659"
+           fill="#ffffff"
+           stroke-width=".18619"
+           id="tspan12">Monke</tspan></text>
+      <text
+         x="86.986015"
+         y="220.82584"
+         font-size="12.751px"
+         stroke-width=".26412"
+         style="line-height:1.25"
+         xml:space="preserve"
+         id="text18"><tspan
+           x="86.986015"
+           y="220.82584"
+           fill="#ffffff"
+           stroke-width=".26412"
+           id="tspan16">Note</tspan></text>
+    </g>
+    <g
+       transform="translate(-53.445 -178.78)"
+       id="g44">
+      <g
+         transform="matrix(.98441 -.2919 .25308 .85348 -54.516 48.493)"
+         stroke-width=".86666"
+         id="g26">
+        <circle
+           cx="70.677"
+           cy="212.63"
+           r="2.1987"
+           fill="#fff"
+           id="circle22" />
+        <circle
+           cx="70.677"
+           cy="212.63"
+           r="1.3811"
+           fill="#6c5ce7"
+           id="circle24" />
+      </g>
+      <g
+         transform="matrix(-.98441 -.2919 -.25308 .85348 185.91 48.493)"
+         stroke-width=".86666"
+         id="g32">
+        <circle
+           cx="70.677"
+           cy="212.63"
+           r="2.1987"
+           fill="#fff"
+           id="circle28" />
+        <circle
+           cx="70.677"
+           cy="212.63"
+           r="1.3811"
+           fill="#6c5ce7"
+           id="circle30" />
+      </g>
+      <ellipse
+         cx="65.697"
+         cy="211.04"
+         rx="4.2049"
+         ry="3.8318"
+         fill="#fff"
+         id="ellipse34" />
+      <g
+         fill="none"
+         id="g42">
+        <path
+           d="m66.825 210.84s0.62-0.53642 1.0431-0.51879c0.34558 0.0144 0.93266 0.48007 0.93266 0.48007"
+           stroke="#6c5ce7"
+           stroke-linecap="round"
+           stroke-width=".21957"
+           id="path36" />
+        <path
+           d="m64.568 210.84s-0.62-0.53642-1.0431-0.51879c-0.34558 0.0144-0.93266 0.48007-0.93266 0.48007"
+           stroke="#6c5ce7"
+           stroke-linecap="round"
+           stroke-width=".21957"
+           id="path38" />
+        <path
+           d="m64.314 213.09h2.7857"
+           stroke-width="0"
+           id="path40" />
+      </g>
+    </g>
+  </g>
+</svg>

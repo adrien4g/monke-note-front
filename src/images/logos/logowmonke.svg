@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="90" version="1.1" viewBox="0 0 52.917 23.813" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="matrix(1.2069 0 0 1.2069 -96.851 -244.24)" font-family="'Giga Sans'">
+  <text x="87.398308" y="209.31659" font-size="8.9883px" stroke-width=".18619" style="line-height:1.25" xml:space="preserve"><tspan x="87.398308" y="209.31659" fill="#ffffff" stroke-width=".18619">Monke</tspan></text>
+  <text x="86.986015" y="220.82584" font-size="12.751px" stroke-width=".26412" style="line-height:1.25" xml:space="preserve"><tspan x="86.986015" y="220.82584" fill="#ffffff" stroke-width=".26412">Note</tspan></text>
+ </g>
+</svg>
